@@ -1,0 +1,8 @@
+.DS_Store
+.env
+.vcode/
+env/
+node_modules/
+media/
+staticfiles/
+db.sqlite3
