@@ -37,9 +37,11 @@
             <div class="space-y-4 rounded-md">
                 {% for field in form %}
                     <div>
-                        <label for="{{ field.id_for_label }}" class="block text-sm font-medium text-gray-700 mb-1">
-                            {{ field.label }}
-                        </label>
+                        {% if field.name != 'avatar' %}
+                            <label for="{{ field.id_for_label }}" class="block text-sm font-medium text-gray-700 mb-1">
+                                {{ field.label }}
+                            </label>
+                        {% endif %}
 
                         {% if field.name == 'bio' %}
                             <textarea
@@ -49,6 +51,27 @@
                                 placeholder="Tell me about yourself..."
                                 rows="3"
                             >{{field.value|default_if_none:''}}</textarea>
+                        {% elif field.name == 'avatar' %}
+                            <!-- Custom Avatar with Preview -->
+                            <div class="flex items-center space-x-4 mt-1 justify-center">
+                                <div class="relative w-14 h-14 rounded-full overflow-hidden bg-gray-100 border border-gray-300 flex items-center justify-center shrink-0 shadow-inner">
+                                    <img id="avatar-preview" src="#" alt="Preview" class="w-full h-full object-cover hidden">
+                                    <span id="avatar-placeholder" class="text-xs text-gray-400 font-medium">Avatar</span>
+                                </div>
+
+                                <input 
+                                    id="{{ field.id_for_label }}"
+                                    name="{{ field.name }}"
+                                    type="{{field.field.widget.input_type}}"
+                                    accept="image/*"
+                                    class="hidden"
+                                    onchange="previewAvatar(event)"
+                                >
+
+                                <label for="{{ field.id_for_label }}" class="cursor-pointer py-2.5 px-4 border border-gray-300 rounded-lg text-sm font-medium text-gray-700 bg-white hover:bg-gray-50 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-black transition shadow-sm">
+                                    Choose file
+                                </label>
+                            </div>
                         {% else %}
                             <input
                                 id="{{field.id_for_label}}"
@@ -81,5 +104,23 @@
 
     </div>
 </div>
+
+<script>
+    function previewAvatar(event) {
+        const input = event.target;
+        const preview = document.getElementById('avatar-preview');
+        const placeholder = document.getElementById('avatar-placeholder');
+        
+        if (input.files && input.files[0]) {
+            const reader = new FileReader();
+            reader.onload = function(e) {
+                preview.src = e.target.result;
+                preview.classList.remove('hidden');
+                if (placeholder) placeholder.classList.add('hidden');
+            }
+            console.log('read as url', reader.readAsDataURL(input.files[0]));
+        }
+    }
+</script>
 
 {% endblock %}
