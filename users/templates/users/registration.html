@@ -1,4 +1,5 @@
 {% extends 'base.html' %}
+{% load static %}
 
 {% block title %}
     Registration
@@ -105,22 +106,10 @@
     </div>
 </div>
 
-<script>
-    function previewAvatar(event) {
-        const input = event.target;
-        const preview = document.getElementById('avatar-preview');
-        const placeholder = document.getElementById('avatar-placeholder');
-        
-        if (input.files && input.files[0]) {
-            const reader = new FileReader();
-            reader.onload = function(e) {
-                preview.src = e.target.result;
-                preview.classList.remove('hidden');
-                if (placeholder) placeholder.classList.add('hidden');
-            }
-            console.log('read as url', reader.readAsDataURL(input.files[0]));
-        }
-    }
-</script>
 
+
+{% endblock %}
+
+{% block extra_js %}
+    <script src="{% static 'js/avatar-preview.js' %}"></script>
 {% endblock %}
