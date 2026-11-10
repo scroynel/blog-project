@@ -32,3 +32,9 @@ class RegistrationForm(UserCreationForm):
             self.fields['last_name'].widget.attrs['placeholder'] = 'Enter your last name'
             self.fields['password1'].widget.attrs['placeholder'] = '••••••••'
             self.fields['password2'].widget.attrs['placeholder'] = '••••••••'
+
+
+class EditForm(forms.ModelForm):
+     class Meta:
+        model = User
+        fields = ('avatar', 'username', 'email', 'first_name', 'last_name', 'bio')

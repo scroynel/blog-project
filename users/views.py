@@ -1,13 +1,17 @@
-from django.shortcuts import render
+from django.shortcuts import get_object_or_404, render
 from django.views import View
-from users.forms import LoginForm, RegistrationForm
+from users.forms import LoginForm, RegistrationForm, EditForm
 from django.contrib.auth import login
 from django.shortcuts import redirect 
+from django.contrib.auth import get_user_model
 
 from django.urls import reverse_lazy
 
 
 from django.contrib.auth.views import LoginView
+
+
+User = get_user_model()
 
 
 # class LoginUserView(View):
@@ -41,3 +45,12 @@ class RegistrationUserView(View):
             login(request, user)
             return redirect('/admin/')
         return render(request, 'users/registration.html', {'form': form})
+
+
+class EditUserView(View):
+    def get(self, request, username):
+        user = get_object_or_404(User, username=username)
+        if request.user != user:
+            return redirect('main')
+        form = EditForm(instance=request.user)
+        return render(request, 'users/edit.html', {'form': form})
