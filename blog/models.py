@@ -32,6 +32,7 @@ class Post(models.Model):
     content = models.TextField(verbose_name='Post Content')
     author = models.ForeignKey(User, on_delete=models.CASCADE, verbose_name='Author')
     tags = models.ManyToManyField(Tag, related_name='posts', verbose_name='Tags')
+    tags_generated = models.BooleanField(default=False)
     likes = models.ManyToManyField(User, related_name='liked_posts', blank=True, verbose_name='Likes')
 
     original_post = models.ForeignKey('self', on_delete=models.SET_NULL, null=True, blank=True, related_name='quotes', verbose_name='Original Post')

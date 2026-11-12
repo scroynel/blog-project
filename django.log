@@ -1,0 +1,685 @@
+INFO 2026-11-12 21:07:30,410 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-11-12 21:07:30,410 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-11-12 21:07:32,420 django.server "GET /blog/ HTTP/1.1" 200 45752
+INFO 2026-11-12 21:07:32,420 django.server "GET /blog/ HTTP/1.1" 200 45752
+INFO 2026-11-12 21:07:32,444 django.server "GET /static/css/dist/styles.css?v=1794517652 HTTP/1.1" 200 49550
+INFO 2026-11-12 21:07:32,444 django.server "GET /static/css/dist/styles.css?v=1794517652 HTTP/1.1" 200 49550
+INFO 2026-11-12 21:07:32,472 django.server "GET /blog/ HTTP/1.1" 200 45752
+INFO 2026-11-12 21:07:32,472 django.server "GET /blog/ HTTP/1.1" 200 45752
+INFO 2026-11-12 21:07:33,259 django.server "GET /blog/ HTTP/1.1" 200 45752
+INFO 2026-11-12 21:07:33,259 django.server "GET /blog/ HTTP/1.1" 200 45752
+INFO 2026-11-12 21:07:33,278 django.server "GET /static/css/dist/styles.css?v=1794517653 HTTP/1.1" 200 49550
+INFO 2026-11-12 21:07:33,278 django.server "GET /static/css/dist/styles.css?v=1794517653 HTTP/1.1" 200 49550
+INFO 2026-11-12 21:07:33,311 django.server "GET /blog/ HTTP/1.1" 200 45752
+INFO 2026-11-12 21:07:33,311 django.server "GET /blog/ HTTP/1.1" 200 45752
+INFO 2026-11-12 21:07:41,297 django.server "POST /blog/ HTTP/1.1" 302 0
+INFO 2026-11-12 21:07:41,297 django.server "POST /blog/ HTTP/1.1" 302 0
+INFO 2026-11-12 21:07:41,330 django.server "GET /blog/ HTTP/1.1" 200 48751
+INFO 2026-11-12 21:07:41,330 django.server "GET /blog/ HTTP/1.1" 200 48751
+INFO 2026-11-12 21:07:41,342 django.server "GET /static/css/dist/styles.css?v=1794517661 HTTP/1.1" 200 49550
+INFO 2026-11-12 21:07:41,342 django.server "GET /static/css/dist/styles.css?v=1794517661 HTTP/1.1" 200 49550
+INFO 2026-11-12 21:07:41,367 django.server "GET /blog/ HTTP/1.1" 200 48751
+INFO 2026-11-12 21:07:41,367 django.server "GET /blog/ HTTP/1.1" 200 48751
+INFO 2026-11-12 21:07:43,239 django.server "GET /blog/ HTTP/1.1" 200 48751
+INFO 2026-11-12 21:07:43,239 django.server "GET /blog/ HTTP/1.1" 200 48751
+INFO 2026-11-12 21:07:43,255 django.server "GET /static/css/dist/styles.css?v=1794517663 HTTP/1.1" 200 49550
+INFO 2026-11-12 21:07:43,255 django.server "GET /static/css/dist/styles.css?v=1794517663 HTTP/1.1" 200 49550
+INFO 2026-11-12 21:07:43,280 django.server "GET /blog/ HTTP/1.1" 200 48751
+INFO 2026-11-12 21:07:43,280 django.server "GET /blog/ HTTP/1.1" 200 48751
+INFO 2026-11-12 21:07:43,690 django.server "GET /blog/ HTTP/1.1" 200 48751
+INFO 2026-11-12 21:07:43,690 django.server "GET /blog/ HTTP/1.1" 200 48751
+INFO 2026-11-12 21:07:43,734 django.server "GET /blog/ HTTP/1.1" 200 48751
+INFO 2026-11-12 21:07:43,734 django.server "GET /blog/ HTTP/1.1" 200 48751
+INFO 2026-11-12 21:11:20,897 django.server "GET /blog/ HTTP/1.1" 200 48751
+INFO 2026-11-12 21:11:20,897 django.server "GET /blog/ HTTP/1.1" 200 48751
+INFO 2026-11-12 21:11:20,919 django.server "GET /static/css/dist/styles.css?v=1794517880 HTTP/1.1" 200 49550
+INFO 2026-11-12 21:11:20,919 django.server "GET /static/css/dist/styles.css?v=1794517880 HTTP/1.1" 200 49550
+INFO 2026-11-12 21:11:20,948 django.server "GET /blog/ HTTP/1.1" 200 48751
+INFO 2026-11-12 21:11:20,948 django.server "GET /blog/ HTTP/1.1" 200 48751
+INFO 2026-11-12 21:12:23,337 django.utils.autoreload /Users/mal/programming/blog-project/blog/views.py changed, reloading.
+INFO 2026-11-12 21:12:23,337 django.utils.autoreload /Users/mal/programming/blog-project/blog/views.py changed, reloading.
+INFO 2026-11-12 21:12:23,620 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-11-12 21:12:23,620 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-11-12 21:12:25,830 django.utils.autoreload /Users/mal/programming/blog-project/blog/views.py changed, reloading.
+INFO 2026-11-12 21:12:25,830 django.utils.autoreload /Users/mal/programming/blog-project/blog/views.py changed, reloading.
+INFO 2026-11-12 21:12:26,064 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-11-12 21:12:26,064 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-11-12 21:12:26,349 django.server "GET /blog/ HTTP/1.1" 200 48751
+INFO 2026-11-12 21:12:26,349 django.server "GET /blog/ HTTP/1.1" 200 48751
+INFO 2026-11-12 21:12:26,368 django.server "GET /static/css/dist/styles.css?v=1794517946 HTTP/1.1" 200 49550
+INFO 2026-11-12 21:12:26,368 django.server "GET /static/css/dist/styles.css?v=1794517946 HTTP/1.1" 200 49550
+INFO 2026-11-12 21:12:26,397 django.server "GET /blog/ HTTP/1.1" 200 48751
+INFO 2026-11-12 21:12:26,397 django.server "GET /blog/ HTTP/1.1" 200 48751
+INFO 2026-11-12 21:12:31,366 django.utils.autoreload /Users/mal/programming/blog-project/blog/views.py changed, reloading.
+INFO 2026-11-12 21:12:31,366 django.utils.autoreload /Users/mal/programming/blog-project/blog/views.py changed, reloading.
+INFO 2026-11-12 21:12:31,672 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-11-12 21:12:31,672 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-11-12 21:12:31,924 django.server "GET /blog/ HTTP/1.1" 200 48751
+INFO 2026-11-12 21:12:31,924 django.server "GET /blog/ HTTP/1.1" 200 48751
+INFO 2026-11-12 21:12:31,942 django.server "GET /static/css/dist/styles.css?v=1794517951 HTTP/1.1" 200 49550
+INFO 2026-11-12 21:12:31,942 django.server "GET /static/css/dist/styles.css?v=1794517951 HTTP/1.1" 200 49550
+INFO 2026-11-12 21:12:31,975 django.server "GET /blog/ HTTP/1.1" 200 48751
+INFO 2026-11-12 21:12:31,975 django.server "GET /blog/ HTTP/1.1" 200 48751
+INFO 2026-11-12 21:12:44,180 django.utils.autoreload /Users/mal/programming/blog-project/blog/views.py changed, reloading.
+INFO 2026-11-12 21:12:44,180 django.utils.autoreload /Users/mal/programming/blog-project/blog/views.py changed, reloading.
+INFO 2026-11-12 21:12:44,420 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-11-12 21:12:44,420 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-11-12 21:12:44,701 django.server "GET /blog/ HTTP/1.1" 200 48751
+INFO 2026-11-12 21:12:44,701 django.server "GET /blog/ HTTP/1.1" 200 48751
+INFO 2026-11-12 21:12:44,718 django.server "GET /static/css/dist/styles.css?v=1794517964 HTTP/1.1" 200 49550
+INFO 2026-11-12 21:12:44,718 django.server "GET /static/css/dist/styles.css?v=1794517964 HTTP/1.1" 200 49550
+INFO 2026-11-12 21:12:44,745 django.server "GET /blog/ HTTP/1.1" 200 48751
+INFO 2026-11-12 21:12:44,745 django.server "GET /blog/ HTTP/1.1" 200 48751
+INFO 2026-11-12 21:12:48,690 django.utils.autoreload /Users/mal/programming/blog-project/blog/views.py changed, reloading.
+INFO 2026-11-12 21:12:48,690 django.utils.autoreload /Users/mal/programming/blog-project/blog/views.py changed, reloading.
+INFO 2026-11-12 21:12:49,013 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-11-12 21:12:49,013 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-11-12 21:12:49,249 django.server "GET /blog/ HTTP/1.1" 200 48751
+INFO 2026-11-12 21:12:49,249 django.server "GET /blog/ HTTP/1.1" 200 48751
+INFO 2026-11-12 21:12:49,269 django.server "GET /static/css/dist/styles.css?v=1794517969 HTTP/1.1" 200 49550
+INFO 2026-11-12 21:12:49,269 django.server "GET /static/css/dist/styles.css?v=1794517969 HTTP/1.1" 200 49550
+INFO 2026-11-12 21:12:49,299 django.server "GET /blog/ HTTP/1.1" 200 48751
+INFO 2026-11-12 21:12:49,299 django.server "GET /blog/ HTTP/1.1" 200 48751
+INFO 2026-11-12 21:14:28,485 django.utils.autoreload /Users/mal/programming/blog-project/blog/views.py changed, reloading.
+INFO 2026-11-12 21:14:28,485 django.utils.autoreload /Users/mal/programming/blog-project/blog/views.py changed, reloading.
+INFO 2026-11-12 21:14:28,775 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-11-12 21:14:28,775 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-11-12 21:14:30,997 django.utils.autoreload /Users/mal/programming/blog-project/blog/views.py changed, reloading.
+INFO 2026-11-12 21:14:30,997 django.utils.autoreload /Users/mal/programming/blog-project/blog/views.py changed, reloading.
+INFO 2026-11-12 21:14:31,267 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-11-12 21:14:31,267 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-11-12 21:14:34,507 django.utils.autoreload /Users/mal/programming/blog-project/blog/views.py changed, reloading.
+INFO 2026-11-12 21:14:34,507 django.utils.autoreload /Users/mal/programming/blog-project/blog/views.py changed, reloading.
+INFO 2026-11-12 21:14:34,756 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-11-12 21:14:34,756 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-11-12 21:14:43,158 django.utils.autoreload /Users/mal/programming/blog-project/blog/views.py changed, reloading.
+INFO 2026-11-12 21:14:43,158 django.utils.autoreload /Users/mal/programming/blog-project/blog/views.py changed, reloading.
+INFO 2026-11-12 21:14:43,428 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-11-12 21:14:43,428 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-11-12 21:14:47,692 django.utils.autoreload /Users/mal/programming/blog-project/blog/views.py changed, reloading.
+INFO 2026-11-12 21:14:47,692 django.utils.autoreload /Users/mal/programming/blog-project/blog/views.py changed, reloading.
+INFO 2026-11-12 21:14:47,983 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-11-12 21:14:47,983 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-11-12 21:15:02,614 django.utils.autoreload /Users/mal/programming/blog-project/blog/views.py changed, reloading.
+INFO 2026-11-12 21:15:02,614 django.utils.autoreload /Users/mal/programming/blog-project/blog/views.py changed, reloading.
+INFO 2026-11-12 21:15:02,874 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-11-12 21:15:02,874 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-11-12 21:15:07,154 django.utils.autoreload /Users/mal/programming/blog-project/blog/views.py changed, reloading.
+INFO 2026-11-12 21:15:07,154 django.utils.autoreload /Users/mal/programming/blog-project/blog/views.py changed, reloading.
+INFO 2026-11-12 21:15:07,413 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-11-12 21:15:07,413 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-11-12 21:15:17,887 django.utils.autoreload /Users/mal/programming/blog-project/blog/views.py changed, reloading.
+INFO 2026-11-12 21:15:17,887 django.utils.autoreload /Users/mal/programming/blog-project/blog/views.py changed, reloading.
+INFO 2026-11-12 21:15:18,175 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-11-12 21:15:18,175 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-11-12 21:15:25,551 django.utils.autoreload /Users/mal/programming/blog-project/blog/views.py changed, reloading.
+INFO 2026-11-12 21:15:25,551 django.utils.autoreload /Users/mal/programming/blog-project/blog/views.py changed, reloading.
+INFO 2026-11-12 21:15:25,812 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-11-12 21:15:25,812 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-11-12 21:15:26,864 django.server "GET /blog/ HTTP/1.1" 200 48751
+INFO 2026-11-12 21:15:26,864 django.server "GET /blog/ HTTP/1.1" 200 48751
+INFO 2026-11-12 21:15:26,883 django.server "GET /static/css/dist/styles.css?v=1794518126 HTTP/1.1" 200 49550
+INFO 2026-11-12 21:15:26,883 django.server "GET /static/css/dist/styles.css?v=1794518126 HTTP/1.1" 200 49550
+INFO 2026-11-12 21:15:26,910 django.server "GET /blog/ HTTP/1.1" 200 48751
+INFO 2026-11-12 21:15:26,910 django.server "GET /blog/ HTTP/1.1" 200 48751
+INFO 2026-11-12 21:15:29,072 django.utils.autoreload /Users/mal/programming/blog-project/blog/views.py changed, reloading.
+INFO 2026-11-12 21:15:29,072 django.utils.autoreload /Users/mal/programming/blog-project/blog/views.py changed, reloading.
+INFO 2026-11-12 21:15:29,308 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-11-12 21:15:29,308 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-11-12 21:15:29,580 django.server "GET /blog/ HTTP/1.1" 200 48751
+INFO 2026-11-12 21:15:29,580 django.server "GET /blog/ HTTP/1.1" 200 48751
+INFO 2026-11-12 21:15:29,602 django.server "GET /static/css/dist/styles.css?v=1794518129 HTTP/1.1" 200 49550
+INFO 2026-11-12 21:15:29,602 django.server "GET /static/css/dist/styles.css?v=1794518129 HTTP/1.1" 200 49550
+INFO 2026-11-12 21:15:29,631 django.server "GET /blog/ HTTP/1.1" 200 48751
+INFO 2026-11-12 21:15:29,631 django.server "GET /blog/ HTTP/1.1" 200 48751
+INFO 2026-11-12 21:16:11,751 django.server "GET /blog/ HTTP/1.1" 200 48751
+INFO 2026-11-12 21:16:11,751 django.server "GET /blog/ HTTP/1.1" 200 48751
+INFO 2026-11-12 21:16:11,766 django.server "GET /static/css/dist/styles.css?v=1794518171 HTTP/1.1" 200 49550
+INFO 2026-11-12 21:16:11,766 django.server "GET /static/css/dist/styles.css?v=1794518171 HTTP/1.1" 200 49550
+INFO 2026-11-12 21:16:11,796 django.server "GET /blog/ HTTP/1.1" 200 48751
+INFO 2026-11-12 21:16:11,796 django.server "GET /blog/ HTTP/1.1" 200 48751
+INFO 2026-11-12 21:16:12,473 django.server "GET /blog/ HTTP/1.1" 200 48751
+INFO 2026-11-12 21:16:12,473 django.server "GET /blog/ HTTP/1.1" 200 48751
+INFO 2026-11-12 21:16:12,489 django.server "GET /static/css/dist/styles.css?v=1794518172 HTTP/1.1" 200 49550
+INFO 2026-11-12 21:16:12,489 django.server "GET /static/css/dist/styles.css?v=1794518172 HTTP/1.1" 200 49550
+INFO 2026-11-12 21:16:12,526 django.server "GET /blog/ HTTP/1.1" 200 48751
+INFO 2026-11-12 21:16:12,526 django.server "GET /blog/ HTTP/1.1" 200 48751
+INFO 2026-11-12 21:16:58,318 django.utils.autoreload /Users/mal/programming/blog-project/blog/views.py changed, reloading.
+INFO 2026-11-12 21:16:58,318 django.utils.autoreload /Users/mal/programming/blog-project/blog/views.py changed, reloading.
+INFO 2026-11-12 21:16:58,625 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-11-12 21:16:58,625 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-11-12 21:16:58,891 django.server "GET /blog/ HTTP/1.1" 200 48751
+INFO 2026-11-12 21:16:58,891 django.server "GET /blog/ HTTP/1.1" 200 48751
+INFO 2026-11-12 21:16:58,904 django.server "GET /static/css/dist/styles.css?v=1794518218 HTTP/1.1" 200 49550
+INFO 2026-11-12 21:16:58,904 django.server "GET /static/css/dist/styles.css?v=1794518218 HTTP/1.1" 200 49550
+INFO 2026-11-12 21:16:58,930 django.server "GET /blog/ HTTP/1.1" 200 48751
+INFO 2026-11-12 21:16:58,930 django.server "GET /blog/ HTTP/1.1" 200 48751
+INFO 2026-11-12 21:17:00,880 django.utils.autoreload /Users/mal/programming/blog-project/blog/views.py changed, reloading.
+INFO 2026-11-12 21:17:00,880 django.utils.autoreload /Users/mal/programming/blog-project/blog/views.py changed, reloading.
+INFO 2026-11-12 21:17:01,172 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-11-12 21:17:01,172 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-11-12 21:17:01,442 django.server "GET /blog/ HTTP/1.1" 200 48751
+INFO 2026-11-12 21:17:01,442 django.server "GET /blog/ HTTP/1.1" 200 48751
+INFO 2026-11-12 21:17:01,456 django.server "GET /static/css/dist/styles.css?v=1794518221 HTTP/1.1" 200 49550
+INFO 2026-11-12 21:17:01,456 django.server "GET /static/css/dist/styles.css?v=1794518221 HTTP/1.1" 200 49550
+INFO 2026-11-12 21:17:01,486 django.server "GET /blog/ HTTP/1.1" 200 48751
+INFO 2026-11-12 21:17:01,486 django.server "GET /blog/ HTTP/1.1" 200 48751
+INFO 2026-11-12 21:17:03,401 django.utils.autoreload /Users/mal/programming/blog-project/blog/views.py changed, reloading.
+INFO 2026-11-12 21:17:03,401 django.utils.autoreload /Users/mal/programming/blog-project/blog/views.py changed, reloading.
+INFO 2026-11-12 21:17:03,640 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-11-12 21:17:03,640 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-11-12 21:17:03,914 django.server "GET /blog/ HTTP/1.1" 200 48751
+INFO 2026-11-12 21:17:03,914 django.server "GET /blog/ HTTP/1.1" 200 48751
+INFO 2026-11-12 21:17:03,925 django.server "GET /static/css/dist/styles.css?v=1794518223 HTTP/1.1" 200 49550
+INFO 2026-11-12 21:17:03,925 django.server "GET /static/css/dist/styles.css?v=1794518223 HTTP/1.1" 200 49550
+INFO 2026-11-12 21:17:03,963 django.server "GET /blog/ HTTP/1.1" 200 48751
+INFO 2026-11-12 21:17:03,963 django.server "GET /blog/ HTTP/1.1" 200 48751
+INFO 2026-11-12 21:17:06,894 django.utils.autoreload /Users/mal/programming/blog-project/blog/views.py changed, reloading.
+INFO 2026-11-12 21:17:06,894 django.utils.autoreload /Users/mal/programming/blog-project/blog/views.py changed, reloading.
+INFO 2026-11-12 21:17:07,143 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-11-12 21:17:07,143 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-11-12 21:17:07,410 django.server "GET /blog/ HTTP/1.1" 200 48751
+INFO 2026-11-12 21:17:07,410 django.server "GET /blog/ HTTP/1.1" 200 48751
+INFO 2026-11-12 21:17:07,420 django.server "GET /static/css/dist/styles.css?v=1794518227 HTTP/1.1" 200 49550
+INFO 2026-11-12 21:17:07,420 django.server "GET /static/css/dist/styles.css?v=1794518227 HTTP/1.1" 200 49550
+INFO 2026-11-12 21:17:07,444 django.server "GET /blog/ HTTP/1.1" 200 48751
+INFO 2026-11-12 21:17:07,444 django.server "GET /blog/ HTTP/1.1" 200 48751
+INFO 2026-11-12 21:17:15,541 django.utils.autoreload /Users/mal/programming/blog-project/blog/views.py changed, reloading.
+INFO 2026-11-12 21:17:15,541 django.utils.autoreload /Users/mal/programming/blog-project/blog/views.py changed, reloading.
+INFO 2026-11-12 21:17:15,780 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-11-12 21:17:15,780 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-11-12 21:17:16,055 django.server "GET /blog/ HTTP/1.1" 200 48751
+INFO 2026-11-12 21:17:16,055 django.server "GET /blog/ HTTP/1.1" 200 48751
+INFO 2026-11-12 21:17:16,065 django.server "GET /static/css/dist/styles.css?v=1794518236 HTTP/1.1" 200 49550
+INFO 2026-11-12 21:17:16,065 django.server "GET /static/css/dist/styles.css?v=1794518236 HTTP/1.1" 200 49550
+INFO 2026-11-12 21:17:16,096 django.server "GET /blog/ HTTP/1.1" 200 48751
+INFO 2026-11-12 21:17:16,096 django.server "GET /blog/ HTTP/1.1" 200 48751
+INFO 2026-11-12 21:17:21,118 django.utils.autoreload /Users/mal/programming/blog-project/blog/views.py changed, reloading.
+INFO 2026-11-12 21:17:21,118 django.utils.autoreload /Users/mal/programming/blog-project/blog/views.py changed, reloading.
+INFO 2026-11-12 21:17:21,365 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-11-12 21:17:21,365 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-11-12 21:17:21,630 django.server "GET /blog/ HTTP/1.1" 200 48751
+INFO 2026-11-12 21:17:21,630 django.server "GET /blog/ HTTP/1.1" 200 48751
+INFO 2026-11-12 21:17:21,640 django.server "GET /static/css/dist/styles.css?v=1794518241 HTTP/1.1" 200 49550
+INFO 2026-11-12 21:17:21,640 django.server "GET /static/css/dist/styles.css?v=1794518241 HTTP/1.1" 200 49550
+INFO 2026-11-12 21:17:21,674 django.server "GET /blog/ HTTP/1.1" 200 48751
+INFO 2026-11-12 21:17:21,674 django.server "GET /blog/ HTTP/1.1" 200 48751
+INFO 2026-11-12 21:17:24,613 django.utils.autoreload /Users/mal/programming/blog-project/blog/views.py changed, reloading.
+INFO 2026-11-12 21:17:24,613 django.utils.autoreload /Users/mal/programming/blog-project/blog/views.py changed, reloading.
+INFO 2026-11-12 21:17:24,878 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-11-12 21:17:24,878 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-11-12 21:18:05,940 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-11-12 21:18:05,940 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-11-12 21:18:08,485 django.server "GET /blog/ HTTP/1.1" 200 48751
+INFO 2026-11-12 21:18:08,485 django.server "GET /blog/ HTTP/1.1" 200 48751
+INFO 2026-11-12 21:18:08,502 django.server "GET /static/css/dist/styles.css?v=1794518288 HTTP/1.1" 200 49550
+INFO 2026-11-12 21:18:08,502 django.server "GET /static/css/dist/styles.css?v=1794518288 HTTP/1.1" 200 49550
+INFO 2026-11-12 21:18:08,541 django.server "GET /blog/ HTTP/1.1" 200 48751
+INFO 2026-11-12 21:18:08,541 django.server "GET /blog/ HTTP/1.1" 200 48751
+INFO 2026-11-12 21:18:14,952 django.server "POST /blog/ HTTP/1.1" 302 0
+INFO 2026-11-12 21:18:14,952 django.server "POST /blog/ HTTP/1.1" 302 0
+INFO 2026-11-12 21:18:14,986 django.server "GET /blog/ HTTP/1.1" 200 51736
+INFO 2026-11-12 21:18:14,986 django.server "GET /blog/ HTTP/1.1" 200 51736
+INFO 2026-11-12 21:18:15,000 django.server "GET /static/css/dist/styles.css?v=1794518294 HTTP/1.1" 200 49550
+INFO 2026-11-12 21:18:15,000 django.server "GET /static/css/dist/styles.css?v=1794518294 HTTP/1.1" 200 49550
+INFO 2026-11-12 21:18:15,028 django.server "GET /blog/ HTTP/1.1" 200 51736
+INFO 2026-11-12 21:18:15,028 django.server "GET /blog/ HTTP/1.1" 200 51736
+INFO 2026-11-12 21:25:16,107 django.utils.autoreload /Users/mal/programming/blog-project/blog/views.py changed, reloading.
+INFO 2026-11-12 21:25:16,107 django.utils.autoreload /Users/mal/programming/blog-project/blog/views.py changed, reloading.
+INFO 2026-11-12 21:25:16,387 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-11-12 21:25:16,387 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-11-12 21:25:16,652 django.server "GET /blog/ HTTP/1.1" 200 51736
+INFO 2026-11-12 21:25:16,652 django.server "GET /blog/ HTTP/1.1" 200 51736
+INFO 2026-11-12 21:25:16,667 django.server "GET /static/css/dist/styles.css?v=1794518716 HTTP/1.1" 200 49550
+INFO 2026-11-12 21:25:16,667 django.server "GET /static/css/dist/styles.css?v=1794518716 HTTP/1.1" 200 49550
+INFO 2026-11-12 21:25:16,700 django.server "GET /blog/ HTTP/1.1" 200 51736
+INFO 2026-11-12 21:25:16,700 django.server "GET /blog/ HTTP/1.1" 200 51736
+INFO 2026-11-12 21:25:20,705 django.utils.autoreload /Users/mal/programming/blog-project/blog/views.py changed, reloading.
+INFO 2026-11-12 21:25:20,705 django.utils.autoreload /Users/mal/programming/blog-project/blog/views.py changed, reloading.
+INFO 2026-11-12 21:25:20,942 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-11-12 21:25:20,942 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-11-12 21:25:21,222 django.server "GET /blog/ HTTP/1.1" 200 51736
+INFO 2026-11-12 21:25:21,222 django.server "GET /blog/ HTTP/1.1" 200 51736
+INFO 2026-11-12 21:25:21,233 django.server "GET /static/css/dist/styles.css?v=1794518721 HTTP/1.1" 200 49550
+INFO 2026-11-12 21:25:21,233 django.server "GET /static/css/dist/styles.css?v=1794518721 HTTP/1.1" 200 49550
+INFO 2026-11-12 21:25:21,264 django.server "GET /blog/ HTTP/1.1" 200 51736
+INFO 2026-11-12 21:25:21,264 django.server "GET /blog/ HTTP/1.1" 200 51736
+INFO 2026-11-12 21:25:23,171 django.utils.autoreload /Users/mal/programming/blog-project/blog/views.py changed, reloading.
+INFO 2026-11-12 21:25:23,171 django.utils.autoreload /Users/mal/programming/blog-project/blog/views.py changed, reloading.
+INFO 2026-11-12 21:25:23,449 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-11-12 21:25:23,449 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-11-12 21:25:26,678 django.utils.autoreload /Users/mal/programming/blog-project/blog/views.py changed, reloading.
+INFO 2026-11-12 21:25:26,678 django.utils.autoreload /Users/mal/programming/blog-project/blog/views.py changed, reloading.
+INFO 2026-11-12 21:25:26,947 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-11-12 21:25:26,947 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-11-12 21:25:27,415 django.server "GET /blog/ HTTP/1.1" 200 51736
+INFO 2026-11-12 21:25:27,415 django.server "GET /blog/ HTTP/1.1" 200 51736
+INFO 2026-11-12 21:25:27,431 django.server "GET /static/css/dist/styles.css?v=1794518727 HTTP/1.1" 200 49550
+INFO 2026-11-12 21:25:27,431 django.server "GET /static/css/dist/styles.css?v=1794518727 HTTP/1.1" 200 49550
+INFO 2026-11-12 21:25:27,456 django.server "GET /blog/ HTTP/1.1" 200 51736
+INFO 2026-11-12 21:25:27,456 django.server "GET /blog/ HTTP/1.1" 200 51736
+INFO 2026-11-12 21:25:45,800 django.server "GET /blog/ HTTP/1.1" 200 51736
+INFO 2026-11-12 21:25:45,800 django.server "GET /blog/ HTTP/1.1" 200 51736
+INFO 2026-11-12 21:25:45,822 django.server "GET /static/css/dist/styles.css?v=1794518745 HTTP/1.1" 200 49550
+INFO 2026-11-12 21:25:45,822 django.server "GET /static/css/dist/styles.css?v=1794518745 HTTP/1.1" 200 49550
+INFO 2026-11-12 21:25:45,847 django.server "GET /blog/ HTTP/1.1" 200 51736
+INFO 2026-11-12 21:25:45,847 django.server "GET /blog/ HTTP/1.1" 200 51736
+INFO 2026-11-12 21:25:46,160 django.server "GET /blog/ HTTP/1.1" 200 51736
+INFO 2026-11-12 21:25:46,160 django.server "GET /blog/ HTTP/1.1" 200 51736
+INFO 2026-11-12 21:25:46,175 django.server "GET /static/css/dist/styles.css?v=1794518746 HTTP/1.1" 200 49550
+INFO 2026-11-12 21:25:46,175 django.server "GET /static/css/dist/styles.css?v=1794518746 HTTP/1.1" 200 49550
+INFO 2026-11-12 21:25:46,204 django.server "GET /blog/ HTTP/1.1" 200 51736
+INFO 2026-11-12 21:25:46,204 django.server "GET /blog/ HTTP/1.1" 200 51736
+INFO 2026-11-12 21:25:55,843 django.server "POST /blog/ HTTP/1.1" 302 0
+INFO 2026-11-12 21:25:55,843 django.server "POST /blog/ HTTP/1.1" 302 0
+INFO 2026-11-12 21:25:55,877 django.server "GET /blog/ HTTP/1.1" 200 54735
+INFO 2026-11-12 21:25:55,877 django.server "GET /blog/ HTTP/1.1" 200 54735
+INFO 2026-11-12 21:25:55,890 django.server "GET /static/css/dist/styles.css?v=1794518755 HTTP/1.1" 200 49550
+INFO 2026-11-12 21:25:55,890 django.server "GET /static/css/dist/styles.css?v=1794518755 HTTP/1.1" 200 49550
+INFO 2026-11-12 21:25:55,926 django.server "GET /blog/ HTTP/1.1" 200 54735
+INFO 2026-11-12 21:25:55,926 django.server "GET /blog/ HTTP/1.1" 200 54735
+INFO 2026-11-12 21:26:55,974 django.utils.autoreload /Users/mal/programming/blog-project/blog/views.py changed, reloading.
+INFO 2026-11-12 21:26:55,974 django.utils.autoreload /Users/mal/programming/blog-project/blog/views.py changed, reloading.
+INFO 2026-11-12 21:26:56,267 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-11-12 21:26:56,267 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-11-12 21:26:56,541 django.server "GET /blog/ HTTP/1.1" 200 54735
+INFO 2026-11-12 21:26:56,541 django.server "GET /blog/ HTTP/1.1" 200 54735
+INFO 2026-11-12 21:26:56,562 django.server "GET /static/css/dist/styles.css?v=1794518816 HTTP/1.1" 200 49550
+INFO 2026-11-12 21:26:56,562 django.server "GET /static/css/dist/styles.css?v=1794518816 HTTP/1.1" 200 49550
+INFO 2026-11-12 21:26:56,593 django.server "GET /blog/ HTTP/1.1" 200 54735
+INFO 2026-11-12 21:26:56,593 django.server "GET /blog/ HTTP/1.1" 200 54735
+INFO 2026-11-12 21:26:58,546 django.utils.autoreload /Users/mal/programming/blog-project/blog/views.py changed, reloading.
+INFO 2026-11-12 21:26:58,546 django.utils.autoreload /Users/mal/programming/blog-project/blog/views.py changed, reloading.
+INFO 2026-11-12 21:26:58,827 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-11-12 21:26:58,827 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-11-12 21:26:59,094 django.server "GET /blog/ HTTP/1.1" 200 54735
+INFO 2026-11-12 21:26:59,094 django.server "GET /blog/ HTTP/1.1" 200 54735
+INFO 2026-11-12 21:26:59,112 django.server "GET /static/css/dist/styles.css?v=1794518819 HTTP/1.1" 200 49550
+INFO 2026-11-12 21:26:59,112 django.server "GET /static/css/dist/styles.css?v=1794518819 HTTP/1.1" 200 49550
+INFO 2026-11-12 21:26:59,153 django.server "GET /blog/ HTTP/1.1" 200 54735
+INFO 2026-11-12 21:26:59,153 django.server "GET /blog/ HTTP/1.1" 200 54735
+INFO 2026-11-12 21:27:01,067 django.utils.autoreload /Users/mal/programming/blog-project/blog/views.py changed, reloading.
+INFO 2026-11-12 21:27:01,067 django.utils.autoreload /Users/mal/programming/blog-project/blog/views.py changed, reloading.
+INFO 2026-11-12 21:27:01,307 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-11-12 21:27:01,307 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-11-12 21:27:01,588 django.server "GET /blog/ HTTP/1.1" 200 54735
+INFO 2026-11-12 21:27:01,588 django.server "GET /blog/ HTTP/1.1" 200 54735
+INFO 2026-11-12 21:27:01,609 django.server "GET /static/css/dist/styles.css?v=1794518821 HTTP/1.1" 200 49550
+INFO 2026-11-12 21:27:01,609 django.server "GET /static/css/dist/styles.css?v=1794518821 HTTP/1.1" 200 49550
+INFO 2026-11-12 21:27:01,636 django.server "GET /blog/ HTTP/1.1" 200 54735
+INFO 2026-11-12 21:27:01,636 django.server "GET /blog/ HTTP/1.1" 200 54735
+INFO 2026-11-12 21:27:02,530 django.utils.autoreload /Users/mal/programming/blog-project/blog/views.py changed, reloading.
+INFO 2026-11-12 21:27:02,530 django.utils.autoreload /Users/mal/programming/blog-project/blog/views.py changed, reloading.
+INFO 2026-11-12 21:27:02,796 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-11-12 21:27:02,796 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-11-12 21:27:03,056 django.server "GET /blog/ HTTP/1.1" 200 54735
+INFO 2026-11-12 21:27:03,056 django.server "GET /blog/ HTTP/1.1" 200 54735
+INFO 2026-11-12 21:27:03,082 django.server "GET /static/css/dist/styles.css?v=1794518823 HTTP/1.1" 200 49550
+INFO 2026-11-12 21:27:03,082 django.server "GET /static/css/dist/styles.css?v=1794518823 HTTP/1.1" 200 49550
+INFO 2026-11-12 21:27:03,119 django.server "GET /blog/ HTTP/1.1" 200 54735
+INFO 2026-11-12 21:27:03,119 django.server "GET /blog/ HTTP/1.1" 200 54735
+INFO 2026-11-12 21:27:17,629 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-11-12 21:27:17,629 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-11-12 21:27:53,349 django.utils.autoreload /Users/mal/programming/blog-project/blog/views.py changed, reloading.
+INFO 2026-11-12 21:27:53,349 django.utils.autoreload /Users/mal/programming/blog-project/blog/views.py changed, reloading.
+INFO 2026-11-12 21:27:53,598 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-11-12 21:27:53,598 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-11-12 21:27:53,870 django.server "GET /blog/ HTTP/1.1" 200 54735
+INFO 2026-11-12 21:27:53,870 django.server "GET /blog/ HTTP/1.1" 200 54735
+INFO 2026-11-12 21:27:53,886 django.server "GET /static/css/dist/styles.css?v=1794518873 HTTP/1.1" 200 49550
+INFO 2026-11-12 21:27:53,886 django.server "GET /static/css/dist/styles.css?v=1794518873 HTTP/1.1" 200 49550
+INFO 2026-11-12 21:27:53,917 django.server "GET /blog/ HTTP/1.1" 200 54735
+INFO 2026-11-12 21:27:53,917 django.server "GET /blog/ HTTP/1.1" 200 54735
+INFO 2026-11-12 21:27:56,854 django.utils.autoreload /Users/mal/programming/blog-project/blog/views.py changed, reloading.
+INFO 2026-11-12 21:27:56,854 django.utils.autoreload /Users/mal/programming/blog-project/blog/views.py changed, reloading.
+INFO 2026-11-12 21:27:57,174 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-11-12 21:27:57,174 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-11-12 21:27:57,434 django.server "GET /blog/ HTTP/1.1" 200 54735
+INFO 2026-11-12 21:27:57,434 django.server "GET /blog/ HTTP/1.1" 200 54735
+INFO 2026-11-12 21:27:57,450 django.server "GET /static/css/dist/styles.css?v=1794518877 HTTP/1.1" 200 49550
+INFO 2026-11-12 21:27:57,450 django.server "GET /static/css/dist/styles.css?v=1794518877 HTTP/1.1" 200 49550
+INFO 2026-11-12 21:27:57,488 django.server "GET /blog/ HTTP/1.1" 200 54735
+INFO 2026-11-12 21:27:57,488 django.server "GET /blog/ HTTP/1.1" 200 54735
+INFO 2026-11-12 21:27:58,213 django.server "GET /blog/ HTTP/1.1" 200 54735
+INFO 2026-11-12 21:27:58,213 django.server "GET /blog/ HTTP/1.1" 200 54735
+INFO 2026-11-12 21:27:58,231 django.server "GET /static/css/dist/styles.css?v=1794518878 HTTP/1.1" 200 49550
+INFO 2026-11-12 21:27:58,231 django.server "GET /static/css/dist/styles.css?v=1794518878 HTTP/1.1" 200 49550
+INFO 2026-11-12 21:27:58,273 django.server "GET /blog/ HTTP/1.1" 200 54735
+INFO 2026-11-12 21:27:58,273 django.server "GET /blog/ HTTP/1.1" 200 54735
+INFO 2026-11-12 21:27:58,715 django.server "GET /blog/ HTTP/1.1" 200 54735
+INFO 2026-11-12 21:27:58,715 django.server "GET /blog/ HTTP/1.1" 200 54735
+INFO 2026-11-12 21:27:58,794 django.server "GET /blog/ HTTP/1.1" 200 54735
+INFO 2026-11-12 21:27:58,794 django.server "GET /blog/ HTTP/1.1" 200 54735
+INFO 2026-11-12 21:28:24,455 django.server "GET /blog/ HTTP/1.1" 200 54735
+INFO 2026-11-12 21:28:24,455 django.server "GET /blog/ HTTP/1.1" 200 54735
+INFO 2026-11-12 21:28:24,471 django.server "GET /static/css/dist/styles.css?v=1794518904 HTTP/1.1" 200 49550
+INFO 2026-11-12 21:28:24,471 django.server "GET /static/css/dist/styles.css?v=1794518904 HTTP/1.1" 200 49550
+INFO 2026-11-12 21:28:24,500 django.server "GET /blog/ HTTP/1.1" 200 54735
+INFO 2026-11-12 21:28:24,500 django.server "GET /blog/ HTTP/1.1" 200 54735
+INFO 2026-11-12 21:28:42,149 django.server "POST /blog/ HTTP/1.1" 302 0
+INFO 2026-11-12 21:28:42,149 django.server "POST /blog/ HTTP/1.1" 302 0
+INFO 2026-11-12 21:28:42,192 django.server "GET /blog/ HTTP/1.1" 200 57749
+INFO 2026-11-12 21:28:42,192 django.server "GET /blog/ HTTP/1.1" 200 57749
+INFO 2026-11-12 21:28:42,205 django.server "GET /static/css/dist/styles.css?v=1794518922 HTTP/1.1" 200 49550
+INFO 2026-11-12 21:28:42,205 django.server "GET /static/css/dist/styles.css?v=1794518922 HTTP/1.1" 200 49550
+INFO 2026-11-12 21:28:42,233 django.server "GET /blog/ HTTP/1.1" 200 57749
+INFO 2026-11-12 21:28:42,233 django.server "GET /blog/ HTTP/1.1" 200 57749
+INFO 2026-11-12 21:30:16,942 django.server "GET /blog/ HTTP/1.1" 200 57749
+INFO 2026-11-12 21:30:16,942 django.server "GET /blog/ HTTP/1.1" 200 57749
+INFO 2026-11-12 21:30:16,957 django.server "GET /static/css/dist/styles.css?v=1794519016 HTTP/1.1" 200 49550
+INFO 2026-11-12 21:30:16,957 django.server "GET /static/css/dist/styles.css?v=1794519016 HTTP/1.1" 200 49550
+INFO 2026-11-12 21:30:16,990 django.server "GET /blog/ HTTP/1.1" 200 57749
+INFO 2026-11-12 21:30:16,990 django.server "GET /blog/ HTTP/1.1" 200 57749
+INFO 2026-11-12 21:30:17,634 django.server "GET /blog/ HTTP/1.1" 200 57749
+INFO 2026-11-12 21:30:17,634 django.server "GET /blog/ HTTP/1.1" 200 57749
+INFO 2026-11-12 21:30:17,648 django.server "GET /static/css/dist/styles.css?v=1794519017 HTTP/1.1" 200 49550
+INFO 2026-11-12 21:30:17,648 django.server "GET /static/css/dist/styles.css?v=1794519017 HTTP/1.1" 200 49550
+INFO 2026-11-12 21:30:17,677 django.server "GET /blog/ HTTP/1.1" 200 57749
+INFO 2026-11-12 21:30:17,677 django.server "GET /blog/ HTTP/1.1" 200 57749
+INFO 2026-11-12 21:30:17,991 django.server "GET /blog/ HTTP/1.1" 200 57749
+INFO 2026-11-12 21:30:17,991 django.server "GET /blog/ HTTP/1.1" 200 57749
+INFO 2026-11-12 21:30:18,032 django.server "GET /blog/ HTTP/1.1" 200 57749
+INFO 2026-11-12 21:30:18,032 django.server "GET /blog/ HTTP/1.1" 200 57749
+INFO 2026-11-12 21:30:18,306 django.server "GET /blog/ HTTP/1.1" 200 57749
+INFO 2026-11-12 21:30:18,306 django.server "GET /blog/ HTTP/1.1" 200 57749
+INFO 2026-11-12 21:30:18,323 django.server "GET /static/css/dist/styles.css?v=1794519018 HTTP/1.1" 200 49550
+INFO 2026-11-12 21:30:18,323 django.server "GET /static/css/dist/styles.css?v=1794519018 HTTP/1.1" 200 49550
+INFO 2026-11-12 21:30:18,358 django.server "GET /blog/ HTTP/1.1" 200 57749
+INFO 2026-11-12 21:30:18,358 django.server "GET /blog/ HTTP/1.1" 200 57749
+ERROR 2026-11-12 21:30:36,115 blog.views Failed to regenerate tags for post 68843712-e3b6-4e9d-83e9-1e2f19d2ede6
+Traceback (most recent call last):
+  File "/Users/mal/programming/blog-project/env/lib/python3.12/site-packages/django/db/models/fields/__init__.py", line 2207, in get_prep_value
+    return int(value)
+           ^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'bestprogramminglanguages'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/mal/programming/blog-project/blog/views.py", line 57, in post
+    post.tags.add(*gen_tags)
+  File "/Users/mal/programming/blog-project/env/lib/python3.12/site-packages/django/db/models/fields/related_descriptors.py", line 1324, in add
+    self._add_base(*objs, through_defaults=through_defaults, using=db)
+  File "/Users/mal/programming/blog-project/env/lib/python3.12/site-packages/django/db/models/fields/related_descriptors.py", line 1301, in _add_base
+    self._add_items(
+  File "/Users/mal/programming/blog-project/env/lib/python3.12/site-packages/django/db/models/fields/related_descriptors.py", line 1597, in _add_items
+    target_ids = self._get_target_ids(target_field_name, objs)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mal/programming/blog-project/env/lib/python3.12/site-packages/django/db/models/fields/related_descriptors.py", line 1525, in _get_target_ids
+    target_ids.add(target_field.get_prep_value(obj))
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mal/programming/blog-project/env/lib/python3.12/site-packages/django/db/models/fields/related.py", line 1281, in get_prep_value
+    return self.target_field.get_prep_value(value)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mal/programming/blog-project/env/lib/python3.12/site-packages/django/db/models/fields/__init__.py", line 2209, in get_prep_value
+    raise e.__class__(
+ValueError: Field 'id' expected a number but got 'bestprogramminglanguages'.
+INFO 2026-11-12 21:30:36,125 django.server "POST /blog/ HTTP/1.1" 302 0
+INFO 2026-11-12 21:30:36,125 django.server "POST /blog/ HTTP/1.1" 302 0
+INFO 2026-11-12 21:30:36,160 django.server "GET /blog/ HTTP/1.1" 200 60758
+INFO 2026-11-12 21:30:36,160 django.server "GET /blog/ HTTP/1.1" 200 60758
+INFO 2026-11-12 21:30:36,181 django.server "GET /static/css/dist/styles.css?v=1794519036 HTTP/1.1" 200 49550
+INFO 2026-11-12 21:30:36,181 django.server "GET /static/css/dist/styles.css?v=1794519036 HTTP/1.1" 200 49550
+INFO 2026-11-12 21:30:36,217 django.server "GET /blog/ HTTP/1.1" 200 60758
+INFO 2026-11-12 21:30:36,217 django.server "GET /blog/ HTTP/1.1" 200 60758
+INFO 2026-11-12 21:34:24,387 django.utils.autoreload /Users/mal/programming/blog-project/blog/views.py changed, reloading.
+INFO 2026-11-12 21:34:24,387 django.utils.autoreload /Users/mal/programming/blog-project/blog/views.py changed, reloading.
+INFO 2026-11-12 21:34:24,771 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-11-12 21:34:24,771 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-11-12 21:34:25,051 django.server "GET /blog/ HTTP/1.1" 200 60758
+INFO 2026-11-12 21:34:25,051 django.server "GET /blog/ HTTP/1.1" 200 60758
+INFO 2026-11-12 21:34:25,062 django.server "GET /static/css/dist/styles.css?v=1794519265 HTTP/1.1" 200 49550
+INFO 2026-11-12 21:34:25,062 django.server "GET /static/css/dist/styles.css?v=1794519265 HTTP/1.1" 200 49550
+INFO 2026-11-12 21:34:25,102 django.server "GET /blog/ HTTP/1.1" 200 60758
+INFO 2026-11-12 21:34:25,102 django.server "GET /blog/ HTTP/1.1" 200 60758
+INFO 2026-11-12 21:34:36,352 django.utils.autoreload /Users/mal/programming/blog-project/blog/views.py changed, reloading.
+INFO 2026-11-12 21:34:36,352 django.utils.autoreload /Users/mal/programming/blog-project/blog/views.py changed, reloading.
+INFO 2026-11-12 21:34:36,661 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-11-12 21:34:36,661 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-11-12 21:34:36,914 django.server "GET /blog/ HTTP/1.1" 200 60758
+INFO 2026-11-12 21:34:36,914 django.server "GET /blog/ HTTP/1.1" 200 60758
+INFO 2026-11-12 21:34:36,937 django.server "GET /static/css/dist/styles.css?v=1794519276 HTTP/1.1" 200 49550
+INFO 2026-11-12 21:34:36,937 django.server "GET /static/css/dist/styles.css?v=1794519276 HTTP/1.1" 200 49550
+INFO 2026-11-12 21:34:36,971 django.server "GET /blog/ HTTP/1.1" 200 60758
+INFO 2026-11-12 21:34:36,971 django.server "GET /blog/ HTTP/1.1" 200 60758
+INFO 2026-11-12 21:34:46,147 django.utils.autoreload /Users/mal/programming/blog-project/blog/views.py changed, reloading.
+INFO 2026-11-12 21:34:46,147 django.utils.autoreload /Users/mal/programming/blog-project/blog/views.py changed, reloading.
+INFO 2026-11-12 21:34:46,408 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-11-12 21:34:46,408 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-11-12 21:34:51,697 django.utils.autoreload /Users/mal/programming/blog-project/blog/views.py changed, reloading.
+INFO 2026-11-12 21:34:51,697 django.utils.autoreload /Users/mal/programming/blog-project/blog/views.py changed, reloading.
+INFO 2026-11-12 21:34:51,953 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-11-12 21:34:51,953 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-11-12 21:35:03,480 django.utils.autoreload /Users/mal/programming/blog-project/blog/views.py changed, reloading.
+INFO 2026-11-12 21:35:03,480 django.utils.autoreload /Users/mal/programming/blog-project/blog/views.py changed, reloading.
+INFO 2026-11-12 21:35:03,725 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-11-12 21:35:03,725 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-11-12 21:35:12,094 django.utils.autoreload /Users/mal/programming/blog-project/blog/views.py changed, reloading.
+INFO 2026-11-12 21:35:12,094 django.utils.autoreload /Users/mal/programming/blog-project/blog/views.py changed, reloading.
+INFO 2026-11-12 21:35:12,342 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-11-12 21:35:12,342 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-11-12 21:35:16,604 django.utils.autoreload /Users/mal/programming/blog-project/blog/views.py changed, reloading.
+INFO 2026-11-12 21:35:16,604 django.utils.autoreload /Users/mal/programming/blog-project/blog/views.py changed, reloading.
+INFO 2026-11-12 21:35:16,838 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-11-12 21:35:16,838 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-11-12 21:35:22,128 django.utils.autoreload /Users/mal/programming/blog-project/blog/views.py changed, reloading.
+INFO 2026-11-12 21:35:22,128 django.utils.autoreload /Users/mal/programming/blog-project/blog/views.py changed, reloading.
+INFO 2026-11-12 21:35:22,384 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-11-12 21:35:22,384 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-11-12 21:35:29,756 django.utils.autoreload /Users/mal/programming/blog-project/blog/views.py changed, reloading.
+INFO 2026-11-12 21:35:29,756 django.utils.autoreload /Users/mal/programming/blog-project/blog/views.py changed, reloading.
+INFO 2026-11-12 21:35:29,996 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-11-12 21:35:29,996 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-11-12 21:35:33,238 django.utils.autoreload /Users/mal/programming/blog-project/blog/views.py changed, reloading.
+INFO 2026-11-12 21:35:33,238 django.utils.autoreload /Users/mal/programming/blog-project/blog/views.py changed, reloading.
+INFO 2026-11-12 21:35:33,493 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-11-12 21:35:33,493 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-11-12 21:35:35,498 django.server "GET /blog/ HTTP/1.1" 200 60758
+INFO 2026-11-12 21:35:35,498 django.server "GET /blog/ HTTP/1.1" 200 60758
+INFO 2026-11-12 21:35:35,516 django.server "GET /static/css/dist/styles.css?v=1794519335 HTTP/1.1" 200 49550
+INFO 2026-11-12 21:35:35,516 django.server "GET /static/css/dist/styles.css?v=1794519335 HTTP/1.1" 200 49550
+INFO 2026-11-12 21:35:35,559 django.server "GET /blog/ HTTP/1.1" 200 60758
+INFO 2026-11-12 21:35:35,559 django.server "GET /blog/ HTTP/1.1" 200 60758
+INFO 2026-11-12 21:35:58,345 django.utils.autoreload /Users/mal/programming/blog-project/blog/views.py changed, reloading.
+INFO 2026-11-12 21:35:58,345 django.utils.autoreload /Users/mal/programming/blog-project/blog/views.py changed, reloading.
+INFO 2026-11-12 21:35:58,632 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-11-12 21:35:58,632 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-11-12 21:35:58,904 django.server "GET /blog/ HTTP/1.1" 200 60758
+INFO 2026-11-12 21:35:58,904 django.server "GET /blog/ HTTP/1.1" 200 60758
+INFO 2026-11-12 21:35:58,919 django.server "GET /static/css/dist/styles.css?v=1794519358 HTTP/1.1" 200 49550
+INFO 2026-11-12 21:35:58,919 django.server "GET /static/css/dist/styles.css?v=1794519358 HTTP/1.1" 200 49550
+INFO 2026-11-12 21:35:58,948 django.server "GET /blog/ HTTP/1.1" 200 60758
+INFO 2026-11-12 21:35:58,948 django.server "GET /blog/ HTTP/1.1" 200 60758
+INFO 2026-11-12 21:36:09,106 django.utils.autoreload /Users/mal/programming/blog-project/blog/views.py changed, reloading.
+INFO 2026-11-12 21:36:09,106 django.utils.autoreload /Users/mal/programming/blog-project/blog/views.py changed, reloading.
+INFO 2026-11-12 21:36:09,392 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-11-12 21:36:09,392 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-11-12 21:36:09,658 django.server "GET /blog/ HTTP/1.1" 200 60758
+INFO 2026-11-12 21:36:09,658 django.server "GET /blog/ HTTP/1.1" 200 60758
+INFO 2026-11-12 21:36:09,670 django.server "GET /static/css/dist/styles.css?v=1794519369 HTTP/1.1" 200 49550
+INFO 2026-11-12 21:36:09,670 django.server "GET /static/css/dist/styles.css?v=1794519369 HTTP/1.1" 200 49550
+INFO 2026-11-12 21:36:09,705 django.server "GET /blog/ HTTP/1.1" 200 60758
+INFO 2026-11-12 21:36:09,705 django.server "GET /blog/ HTTP/1.1" 200 60758
+INFO 2026-11-12 21:36:15,546 django.server "GET /blog/ HTTP/1.1" 200 60758
+INFO 2026-11-12 21:36:15,546 django.server "GET /blog/ HTTP/1.1" 200 60758
+INFO 2026-11-12 21:36:15,555 django.server "GET /static/css/dist/styles.css?v=1794519375 HTTP/1.1" 200 49550
+INFO 2026-11-12 21:36:15,555 django.server "GET /static/css/dist/styles.css?v=1794519375 HTTP/1.1" 200 49550
+INFO 2026-11-12 21:36:15,580 django.server "GET /blog/ HTTP/1.1" 200 60758
+INFO 2026-11-12 21:36:15,580 django.server "GET /blog/ HTTP/1.1" 200 60758
+INFO 2026-11-12 21:36:15,948 django.server "GET /blog/ HTTP/1.1" 200 60758
+INFO 2026-11-12 21:36:15,948 django.server "GET /blog/ HTTP/1.1" 200 60758
+INFO 2026-11-12 21:36:15,994 django.server "GET /blog/ HTTP/1.1" 200 60758
+INFO 2026-11-12 21:36:15,994 django.server "GET /blog/ HTTP/1.1" 200 60758
+ERROR 2026-11-12 21:36:29,802 blog.views Failed to regenerate tags for post f3aaaffe-e255-4618-92ac-b0b51d34b7c6
+Traceback (most recent call last):
+  File "/Users/mal/programming/blog-project/env/lib/python3.12/site-packages/django/db/models/fields/__init__.py", line 2207, in get_prep_value
+    return int(value)
+           ^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'tuple'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/mal/programming/blog-project/blog/views.py", line 57, in post
+    post.tags.add(*tags)
+  File "/Users/mal/programming/blog-project/env/lib/python3.12/site-packages/django/db/models/fields/related_descriptors.py", line 1324, in add
+    self._add_base(*objs, through_defaults=through_defaults, using=db)
+  File "/Users/mal/programming/blog-project/env/lib/python3.12/site-packages/django/db/models/fields/related_descriptors.py", line 1301, in _add_base
+    self._add_items(
+  File "/Users/mal/programming/blog-project/env/lib/python3.12/site-packages/django/db/models/fields/related_descriptors.py", line 1597, in _add_items
+    target_ids = self._get_target_ids(target_field_name, objs)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mal/programming/blog-project/env/lib/python3.12/site-packages/django/db/models/fields/related_descriptors.py", line 1525, in _get_target_ids
+    target_ids.add(target_field.get_prep_value(obj))
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mal/programming/blog-project/env/lib/python3.12/site-packages/django/db/models/fields/related.py", line 1281, in get_prep_value
+    return self.target_field.get_prep_value(value)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mal/programming/blog-project/env/lib/python3.12/site-packages/django/db/models/fields/__init__.py", line 2209, in get_prep_value
+    raise e.__class__(
+TypeError: Field 'id' expected a number but got (<Tag: #socialmedia>, False).
+INFO 2026-11-12 21:36:29,808 django.server "POST /blog/ HTTP/1.1" 302 0
+INFO 2026-11-12 21:36:29,808 django.server "POST /blog/ HTTP/1.1" 302 0
+INFO 2026-11-12 21:36:29,847 django.server "GET /blog/ HTTP/1.1" 200 63779
+INFO 2026-11-12 21:36:29,847 django.server "GET /blog/ HTTP/1.1" 200 63779
+INFO 2026-11-12 21:36:29,863 django.server "GET /static/css/dist/styles.css?v=1794519389 HTTP/1.1" 200 49550
+INFO 2026-11-12 21:36:29,863 django.server "GET /static/css/dist/styles.css?v=1794519389 HTTP/1.1" 200 49550
+INFO 2026-11-12 21:36:29,898 django.server "GET /blog/ HTTP/1.1" 200 63779
+INFO 2026-11-12 21:36:29,898 django.server "GET /blog/ HTTP/1.1" 200 63779
+INFO 2026-11-12 21:39:06,416 django.utils.autoreload /Users/mal/programming/blog-project/blog/views.py changed, reloading.
+INFO 2026-11-12 21:39:06,416 django.utils.autoreload /Users/mal/programming/blog-project/blog/views.py changed, reloading.
+INFO 2026-11-12 21:39:06,777 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-11-12 21:39:06,777 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-11-12 21:39:07,062 django.server "GET /blog/ HTTP/1.1" 200 63779
+INFO 2026-11-12 21:39:07,062 django.server "GET /blog/ HTTP/1.1" 200 63779
+INFO 2026-11-12 21:39:07,074 django.server "GET /static/css/dist/styles.css?v=1794519547 HTTP/1.1" 200 49550
+INFO 2026-11-12 21:39:07,074 django.server "GET /static/css/dist/styles.css?v=1794519547 HTTP/1.1" 200 49550
+INFO 2026-11-12 21:39:07,109 django.server "GET /blog/ HTTP/1.1" 200 63779
+INFO 2026-11-12 21:39:07,109 django.server "GET /blog/ HTTP/1.1" 200 63779
+INFO 2026-11-12 21:39:15,366 django.server "GET /blog/ HTTP/1.1" 200 63779
+INFO 2026-11-12 21:39:15,366 django.server "GET /blog/ HTTP/1.1" 200 63779
+INFO 2026-11-12 21:39:15,383 django.server "GET /static/css/dist/styles.css?v=1794519555 HTTP/1.1" 200 49550
+INFO 2026-11-12 21:39:15,383 django.server "GET /static/css/dist/styles.css?v=1794519555 HTTP/1.1" 200 49550
+INFO 2026-11-12 21:39:15,416 django.server "GET /blog/ HTTP/1.1" 200 63779
+INFO 2026-11-12 21:39:15,416 django.server "GET /blog/ HTTP/1.1" 200 63779
+INFO 2026-11-12 21:39:15,709 django.server "GET /blog/ HTTP/1.1" 200 63779
+INFO 2026-11-12 21:39:15,709 django.server "GET /blog/ HTTP/1.1" 200 63779
+INFO 2026-11-12 21:39:15,757 django.server "GET /blog/ HTTP/1.1" 200 63779
+INFO 2026-11-12 21:39:15,757 django.server "GET /blog/ HTTP/1.1" 200 63779
+INFO 2026-11-12 21:39:26,545 blog.views Tags ['helpwithposts', 'taggingissues', 'socialmediahelp', 'postingproblems', 'createhashtags'] were added to the post a4d294ec-f5d6-476c-952e-68dc2d15338a
+INFO 2026-11-12 21:39:26,548 django.server "POST /blog/ HTTP/1.1" 302 0
+INFO 2026-11-12 21:39:26,548 django.server "POST /blog/ HTTP/1.1" 302 0
+INFO 2026-11-12 21:39:26,618 django.server "GET /blog/ HTTP/1.1" 200 67450
+INFO 2026-11-12 21:39:26,618 django.server "GET /blog/ HTTP/1.1" 200 67450
+INFO 2026-11-12 21:39:26,639 django.server "GET /static/css/dist/styles.css?v=1794519566 HTTP/1.1" 200 49550
+INFO 2026-11-12 21:39:26,639 django.server "GET /static/css/dist/styles.css?v=1794519566 HTTP/1.1" 200 49550
+INFO 2026-11-12 21:39:26,673 django.server "GET /blog/ HTTP/1.1" 200 67450
+INFO 2026-11-12 21:39:26,673 django.server "GET /blog/ HTTP/1.1" 200 67450
+INFO 2026-11-12 21:40:41,979 django.utils.autoreload /Users/mal/programming/blog-project/blog/views.py changed, reloading.
+INFO 2026-11-12 21:40:41,979 django.utils.autoreload /Users/mal/programming/blog-project/blog/views.py changed, reloading.
+INFO 2026-11-12 21:40:42,258 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-11-12 21:40:42,258 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-11-12 21:40:42,523 django.server "GET /blog/ HTTP/1.1" 200 67450
+INFO 2026-11-12 21:40:42,523 django.server "GET /blog/ HTTP/1.1" 200 67450
+INFO 2026-11-12 21:40:42,543 django.server "GET /static/css/dist/styles.css?v=1794519642 HTTP/1.1" 200 49550
+INFO 2026-11-12 21:40:42,543 django.server "GET /static/css/dist/styles.css?v=1794519642 HTTP/1.1" 200 49550
+INFO 2026-11-12 21:40:42,573 django.server "GET /blog/ HTTP/1.1" 200 67450
+INFO 2026-11-12 21:40:42,573 django.server "GET /blog/ HTTP/1.1" 200 67450
+INFO 2026-11-12 21:40:46,591 django.utils.autoreload /Users/mal/programming/blog-project/blog/views.py changed, reloading.
+INFO 2026-11-12 21:40:46,591 django.utils.autoreload /Users/mal/programming/blog-project/blog/views.py changed, reloading.
+INFO 2026-11-12 21:40:46,849 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-11-12 21:40:46,849 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-11-12 21:40:47,131 django.server "GET /blog/ HTTP/1.1" 200 67450
+INFO 2026-11-12 21:40:47,131 django.server "GET /blog/ HTTP/1.1" 200 67450
+INFO 2026-11-12 21:40:47,151 django.server "GET /static/css/dist/styles.css?v=1794519647 HTTP/1.1" 200 49550
+INFO 2026-11-12 21:40:47,151 django.server "GET /static/css/dist/styles.css?v=1794519647 HTTP/1.1" 200 49550
+INFO 2026-11-12 21:40:47,182 django.server "GET /blog/ HTTP/1.1" 200 67450
+INFO 2026-11-12 21:40:47,182 django.server "GET /blog/ HTTP/1.1" 200 67450
+INFO 2026-11-12 21:40:48,067 django.utils.autoreload /Users/mal/programming/blog-project/blog/views.py changed, reloading.
+INFO 2026-11-12 21:40:48,067 django.utils.autoreload /Users/mal/programming/blog-project/blog/views.py changed, reloading.
+INFO 2026-11-12 21:40:48,336 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-11-12 21:40:48,336 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-11-12 21:40:48,607 django.server "GET /blog/ HTTP/1.1" 200 67450
+INFO 2026-11-12 21:40:48,607 django.server "GET /blog/ HTTP/1.1" 200 67450
+INFO 2026-11-12 21:40:48,628 django.server "GET /static/css/dist/styles.css?v=1794519648 HTTP/1.1" 200 49550
+INFO 2026-11-12 21:40:48,628 django.server "GET /static/css/dist/styles.css?v=1794519648 HTTP/1.1" 200 49550
+INFO 2026-11-12 21:40:48,653 django.server "GET /blog/ HTTP/1.1" 200 67450
+INFO 2026-11-12 21:40:48,653 django.server "GET /blog/ HTTP/1.1" 200 67450
+INFO 2026-11-12 21:40:56,367 django.server "GET /blog/ HTTP/1.1" 200 67450
+INFO 2026-11-12 21:40:56,367 django.server "GET /blog/ HTTP/1.1" 200 67450
+INFO 2026-11-12 21:40:56,385 django.server "GET /static/css/dist/styles.css?v=1794519656 HTTP/1.1" 200 49550
+INFO 2026-11-12 21:40:56,385 django.server "GET /static/css/dist/styles.css?v=1794519656 HTTP/1.1" 200 49550
+INFO 2026-11-12 21:40:56,423 django.server "GET /blog/ HTTP/1.1" 200 67450
+INFO 2026-11-12 21:40:56,423 django.server "GET /blog/ HTTP/1.1" 200 67450
+ERROR 2026-11-12 21:41:03,050 blog.views Failed to regenerate tags for post 03ea7e6f-de98-405d-8664-fa071da3ccdf
+Traceback (most recent call last):
+  File "/Users/mal/programming/blog-project/env/lib/python3.12/site-packages/django/db/models/fields/__init__.py", line 2207, in get_prep_value
+    return int(value)
+           ^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'tuple'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/mal/programming/blog-project/blog/views.py", line 57, in post
+    post.tags.add(*tags)
+  File "/Users/mal/programming/blog-project/env/lib/python3.12/site-packages/django/db/models/fields/related_descriptors.py", line 1324, in add
+    self._add_base(*objs, through_defaults=through_defaults, using=db)
+  File "/Users/mal/programming/blog-project/env/lib/python3.12/site-packages/django/db/models/fields/related_descriptors.py", line 1301, in _add_base
+    self._add_items(
+  File "/Users/mal/programming/blog-project/env/lib/python3.12/site-packages/django/db/models/fields/related_descriptors.py", line 1597, in _add_items
+    target_ids = self._get_target_ids(target_field_name, objs)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mal/programming/blog-project/env/lib/python3.12/site-packages/django/db/models/fields/related_descriptors.py", line 1525, in _get_target_ids
+    target_ids.add(target_field.get_prep_value(obj))
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mal/programming/blog-project/env/lib/python3.12/site-packages/django/db/models/fields/related.py", line 1281, in get_prep_value
+    return self.target_field.get_prep_value(value)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mal/programming/blog-project/env/lib/python3.12/site-packages/django/db/models/fields/__init__.py", line 2209, in get_prep_value
+    raise e.__class__(
+TypeError: Field 'id' expected a number but got (<Tag: #newpost>, False).
+INFO 2026-11-12 21:41:03,054 django.server "POST /blog/ HTTP/1.1" 302 0
+INFO 2026-11-12 21:41:03,054 django.server "POST /blog/ HTTP/1.1" 302 0
+INFO 2026-11-12 21:41:03,083 django.server "GET /blog/ HTTP/1.1" 200 70451
+INFO 2026-11-12 21:41:03,083 django.server "GET /blog/ HTTP/1.1" 200 70451
+INFO 2026-11-12 21:41:03,104 django.server "GET /static/css/dist/styles.css?v=1794519663 HTTP/1.1" 200 49550
+INFO 2026-11-12 21:41:03,104 django.server "GET /static/css/dist/styles.css?v=1794519663 HTTP/1.1" 200 49550
+INFO 2026-11-12 21:41:03,133 django.server "GET /blog/ HTTP/1.1" 200 70451
+INFO 2026-11-12 21:41:03,133 django.server "GET /blog/ HTTP/1.1" 200 70451
+INFO 2026-11-12 21:42:49,455 django.utils.autoreload /Users/mal/programming/blog-project/blog/views.py changed, reloading.
+INFO 2026-11-12 21:42:49,455 django.utils.autoreload /Users/mal/programming/blog-project/blog/views.py changed, reloading.
+INFO 2026-11-12 21:42:49,800 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-11-12 21:42:49,800 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-11-12 21:42:52,028 django.utils.autoreload /Users/mal/programming/blog-project/blog/views.py changed, reloading.
+INFO 2026-11-12 21:42:52,028 django.utils.autoreload /Users/mal/programming/blog-project/blog/views.py changed, reloading.
+INFO 2026-11-12 21:42:52,285 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-11-12 21:42:52,285 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-11-12 21:42:52,762 django.server "GET /blog/ HTTP/1.1" 200 70451
+INFO 2026-11-12 21:42:52,762 django.server "GET /blog/ HTTP/1.1" 200 70451
+INFO 2026-11-12 21:42:52,784 django.server "GET /static/css/dist/styles.css?v=1794519772 HTTP/1.1" 200 49550
+INFO 2026-11-12 21:42:52,784 django.server "GET /static/css/dist/styles.css?v=1794519772 HTTP/1.1" 200 49550
+INFO 2026-11-12 21:42:52,816 django.server "GET /blog/ HTTP/1.1" 200 70451
+INFO 2026-11-12 21:42:52,816 django.server "GET /blog/ HTTP/1.1" 200 70451
+INFO 2026-11-12 21:43:17,222 django.utils.autoreload /Users/mal/programming/blog-project/blog/views.py changed, reloading.
+INFO 2026-11-12 21:43:17,222 django.utils.autoreload /Users/mal/programming/blog-project/blog/views.py changed, reloading.
+INFO 2026-11-12 21:43:17,543 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-11-12 21:43:17,543 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-11-12 21:43:17,889 django.server "GET /blog/ HTTP/1.1" 200 70451
+INFO 2026-11-12 21:43:17,889 django.server "GET /blog/ HTTP/1.1" 200 70451
+INFO 2026-11-12 21:43:17,908 django.server "GET /static/css/dist/styles.css?v=1794519797 HTTP/1.1" 200 49550
+INFO 2026-11-12 21:43:17,908 django.server "GET /static/css/dist/styles.css?v=1794519797 HTTP/1.1" 200 49550
+INFO 2026-11-12 21:43:17,942 django.server "GET /blog/ HTTP/1.1" 200 70451
+INFO 2026-11-12 21:43:17,942 django.server "GET /blog/ HTTP/1.1" 200 70451
+INFO 2026-11-12 21:43:26,900 django.server "POST /blog/ HTTP/1.1" 302 0
+INFO 2026-11-12 21:43:26,900 django.server "POST /blog/ HTTP/1.1" 302 0
+INFO 2026-11-12 21:43:26,945 django.server "GET /blog/ HTTP/1.1" 200 74089
+INFO 2026-11-12 21:43:26,945 django.server "GET /blog/ HTTP/1.1" 200 74089
+INFO 2026-11-12 21:43:26,957 django.server "GET /static/css/dist/styles.css?v=1794519806 HTTP/1.1" 200 49550
+INFO 2026-11-12 21:43:26,957 django.server "GET /static/css/dist/styles.css?v=1794519806 HTTP/1.1" 200 49550
+INFO 2026-11-12 21:43:26,990 django.server "GET /blog/ HTTP/1.1" 200 74089
+INFO 2026-11-12 21:43:26,990 django.server "GET /blog/ HTTP/1.1" 200 74089
+INFO 2026-11-12 21:43:59,163 django.utils.autoreload /Users/mal/programming/blog-project/blog/views.py changed, reloading.
+INFO 2026-11-12 21:43:59,163 django.utils.autoreload /Users/mal/programming/blog-project/blog/views.py changed, reloading.
+INFO 2026-11-12 21:43:59,457 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-11-12 21:43:59,457 django.utils.autoreload Watching for file changes with StatReloader
