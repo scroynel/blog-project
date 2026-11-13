@@ -23,33 +23,20 @@ def generate_tags(post_text):
     Post:
     {post_text}
     """
-    try: 
-        response = requests.post(
-            url,
-            json={
-                "model": "llama3.2:3b",
-                "prompt": prompt,
-                "stream": False,
-                "format": "json"
-            },
-            timeout=120
-        )
+    response = requests.post(
+        url,
+        json={
+            "model": "llama3.2:3b",
+            "prompt": prompt,
+            "stream": False,
+            "format": "json"
+        },
+        timeout=120
+    )
 
-        response.raise_for_status()
+    response.raise_for_status()
 
-        result = response.json()
-        data = json.loads(result["response"])
+    result = response.json()
+    data = json.loads(result["response"])
 
-        return [tag.lower().replace('#', '').replace(' ', '') for tag in data.get("tags", [])[:5]]
-    
-    except requests.exceptions.ConnectionError:
-        print('Ollama is not running or is unavailable.')
-        return []
-
-    except requests.exceptions.Timeout:
-        print('Ollama request time out.')
-        return []
-
-    except (requests.exceptions.RequestException, ValueError, KeyError):
-        print('Failed to generate hashtags.')
-        return []
+    return [tag.lower().replace('#', '').replace(' ', '') for tag in data.get("tags", [])[:5]]
