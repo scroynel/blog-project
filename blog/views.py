@@ -1,5 +1,5 @@
-from django.shortcuts import redirect, render
-from .models import Post, Tag
+from django.shortcuts import redirect, render, get_object_or_404
+from .models import Post, Tag, Comment
 from django.db.models import Count
 from .services.tag_generator import generate_tags
 from django.views import View
@@ -8,17 +8,6 @@ import logging
 
 
 logger = logging.getLogger(__name__)
-
-
-# def main(request):
-#     posts = Post.objects.select_related('author').prefetch_related('tags', 'likes', 'reposts', 'comments').annotate(likes_count=Count('likes'), reposts_count=Count('reposts'), comments_count=Count('comments')).order_by('-created_at')
-
-#     print(generate_tags("There's nothing quite like driving a powerful sports car on an open road. The sound of the engine, the smooth acceleration, and the beautiful design make every journey exciting. For car lovers, it's not just about transportation; it's about passion, freedom, and performance. 🏎️🔥"))  # Example usage of the generate_tags function
-
-#     context = {
-#         'posts': posts,
-#     }
-#     return render(request, 'blog/main.html', context)
 
 
 class MainView(View):
@@ -69,4 +58,25 @@ class MainView(View):
             return render(request, 'blog/main.html', context)
         return redirect('main')
       
-    
+
+class CreateCommentView(View):
+    def post(self, request, post_id):
+        post = get_object_or_404(Post, pk=post_id)
+        content = request.POST.get('content').strip()
+        parent_id = request.POST.get('parent_id')
+        if content:
+            parent = None
+
+            if parent_id:
+                parent = get_object_or_404(Comment, pk=parent_id, post=post)
+
+
+
+            Comment.objects.create(
+                post = post,
+                author = request.user,
+                content = content,
+                parent = parent
+            )
+            return redirect('main')
+

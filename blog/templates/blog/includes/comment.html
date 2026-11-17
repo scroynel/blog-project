@@ -1,0 +1,59 @@
+<h4 class="text-sm font-semibold text-gray-900">
+    Comments
+    <span class="text-gray-400 font-normal">
+        ({{ post.comments_count }})
+    </span>
+</h4>
+
+<!-- Add Comment Form FIRST -->
+<form method="POST"
+        action="{% url 'create_comment' post.id %}"
+        class="flex items-center space-x-3">
+
+    {% csrf_token %}
+
+    <div class="w-9 h-9 rounded-full bg-indigo-100
+                flex items-center justify-center
+                text-indigo-600 text-sm font-semibold shrink-0">
+        {{ request.user.username|first|upper }}
+    </div>
+
+    <input
+        type="text"
+        name="content"
+        placeholder="Write a comment..."
+        required
+        class="flex-1 min-w-0 bg-gray-50 border border-gray-200
+                focus:bg-white focus:border-indigo-500
+                focus:ring-2 focus:ring-indigo-500/20
+                rounded-xl px-4 py-2.5 text-sm
+                focus:outline-none transition-all">
+
+    <button
+        type="submit"
+        class="bg-indigo-600 hover:bg-indigo-700
+                text-white text-xs font-semibold
+                px-4 py-2.5 rounded-xl transition-colors">
+        Send
+    </button>
+
+</form>
+
+<!-- Existing Comments BELOW -->
+<div class="space-y-4">
+
+    {% for comment in post.comments.all %}
+
+        {% if not comment.parent %}
+            {% include 'blog/includes/comment_item.html' %}
+        {% endif %}
+
+    {% empty %}
+
+    <p class="text-xs text-gray-400 text-center py-3">
+        No comments yet. Be the first to comment!
+    </p>
+
+    {% endfor %}
+
+</div>
