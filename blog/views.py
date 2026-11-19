@@ -70,8 +70,6 @@ class CreateCommentView(View):
             if parent_id:
                 parent = get_object_or_404(Comment, pk=parent_id, post=post)
 
-
-
             Comment.objects.create(
                 post = post,
                 author = request.user,
